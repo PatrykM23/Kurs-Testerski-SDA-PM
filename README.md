@@ -1,2 +1,2 @@
-# Kurs-Testerski-SDA-PM
+# Projekt-Testerski-SDA-PM
 Integracja Postman - Github
